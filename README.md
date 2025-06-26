@@ -29,11 +29,11 @@ In a test case simulating 12 real business initiatives:
 
 ## 📸 Files Included :
 
-| ![Image]([Atliq_Strategic_Prioritization-Screenshots/Input.jpg](https://github.com/SENTHAMILAN27/Strategic-Prioritization-Matrix-Tool/blob/main/Images/Strategic%20priortization%20Matrix-image.jpg)) | ![Output Example](Atliq_Strategic_Prioritization-Screenshots/Output.jpg) |
+ -[Image]((https://github.com/SENTHAMILAN27/Strategic-Prioritization-Matrix-Tool/blob/main/Images/Strategic%20priortization%20Matrix-image.jpg)) 
 
-|![pdf](https://github.com/SENTHAMILAN27/Strategic-Prioritization-Matrix-Tool/blob/main/PDF/Strategic%20priortization%20Matrix.pdf)|
+-[pdf](https://github.com/SENTHAMILAN27/Strategic-Prioritization-Matrix-Tool/blob/main/PDF/Strategic%20priortization%20Matrix.pdf)
 
-|![Xls File](https://github.com/SENTHAMILAN27/Strategic-Prioritization-Matrix-Tool/blob/main/Xls%20file/Strategic%20priortization%20Matrix.xlsx)|
+-[Xls File](https://github.com/SENTHAMILAN27/Strategic-Prioritization-Matrix-Tool/blob/main/Xls%20file/Strategic%20priortization%20Matrix.xlsx)
 ---
 
 
