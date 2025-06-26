@@ -46,7 +46,7 @@ In a test case simulating 12 real business initiatives:
 ## 📌 Try It Yourself
 Clone or download the Excel file and test different discount scenarios to simulate your own business environment!
 
--[Click here to Download the File](https://github.com/SENTHAMILAN27/Strategic-Prioritization-Matrix-Tool/blob/main/Xls%20file/Strategic%20priortization%20Matrix.xlsx)
+➡[Click here to Download the File](https://github.com/SENTHAMILAN27/Strategic-Prioritization-Matrix-Tool/blob/main/Xls%20file/Strategic%20priortization%20Matrix.xlsx)
 ---
 
 ## 🙋‍♂️ About Me
