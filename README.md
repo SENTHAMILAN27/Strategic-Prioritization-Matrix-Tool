@@ -36,5 +36,25 @@ In a test case simulating 12 real business initiatives:
 -[Xls File](https://github.com/SENTHAMILAN27/Strategic-Prioritization-Matrix-Tool/blob/main/Xls%20file/Strategic%20priortization%20Matrix.xlsx)
 
 ---
+## 🧠 Skills Applied
+- Advanced Excel (Formulas, Data Modeling, Scenario Management)
+- Business Forecasting
+- Financial Impact Simulation
+- Dashboard Design
+
+---
+## 📌 Try It Yourself
+Clone or download the Excel file and test different discount scenarios to simulate your own business environment!
+---
+
+## 🙋‍♂️ About Me
+I'm a budding Data Analyst passionate about turning raw numbers into strategic insights. With 2.5 years of IT experience in the banking domain, I love building tools that simplify complex decisions.
+
+📫 Connect with me on:
+
+👉 **[Visit My Portfolio Website](https://codebasics.io/portfolio/SENTHAMILAN-A)**  
+
+👉 **[Connect with me on LinkedIn](https://www.linkedin.com/in/senthamilan27/)**
+
 
 
